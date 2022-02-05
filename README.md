@@ -1,2 +1,2 @@
 # AIProject
-Creating a AI who can solve anything
+Creating an AI who can solve a Game!
