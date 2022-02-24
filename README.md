@@ -31,16 +31,16 @@ Snake Game Python:
 6. Code a Snake Game with Python and Pygame 🐍 - Tutorial, URL: https://www.youtube.com/watch?v=8dfePlONtls&ab_channel=freeCodeCamp.org
 
 Snake AI:
-8. Deep Learning mit Tensor Flow, Keras und TensorFlow.js, Rheinwerk Verlag, Autoren: Matthieu Deru, Alassane Ndiaye
-9. Neuronale Netze programmieren mit Python, Rheinwek Verlag, Autoren: Joachim Steinwendner, Roland Schwaiger
-10. AI Driven Snake Game using Deep Q Learning https://www.geeksforgeeks.org/ai-driven-snake-game-using-deep-q-learning/
-11. I Created a PERFECT SNAKE A.I.https://www.youtube.com/watch?v=tjQIO1rqTBE&ab_channel=CodeBullet
-12. Introduction: Reinforcement Learning with OpenAI Gym https://towardsdatascience.com/reinforcement-learning-with-openai-d445c2c687d2
-13. FROM RESEARCH TO PRODUCTION, URL: https://pytorch.org/
-14. Was ist maschinelles Lernen?, URL: https://www.sap.com/germany/insights/what-is-machine-learning.html
-15. REINFORCEMENT LEARNING (DQN) TUTORIAL, URL: https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html
-16. Schooling Flappy Bird: A Reinforcement Learning Tutorial, URL: https://www.toptal.com/deep-learning/pytorch-reinforcement-learning-tutorial
-17. Teach AI To Play Snake - Reinforcement Learning Tutorial With PyTorch And Pygame (Part 1), URL: https://www.youtube.com/watch?v=PJl4iabBEz0&t=2s&ab_channel=PythonEngineer
-18. Was ist ein Neuronales Netz?, URL: https://www.bigdata-insider.de/was-ist-ein-neuronales-netz-a-686185/
-19. Feedforward Neural Network, URL: https://www.alexanderthamm.com/de/data-science-glossar/feedforward-neural-network/
-20. 
+1. Deep Learning mit Tensor Flow, Keras und TensorFlow.js, Rheinwerk Verlag, Autoren: Matthieu Deru, Alassane Ndiaye
+2. Neuronale Netze programmieren mit Python, Rheinwek Verlag, Autoren: Joachim Steinwendner, Roland Schwaiger
+3. AI Driven Snake Game using Deep Q Learning https://www.geeksforgeeks.org/ai-driven-snake-game-using-deep-q-learning/
+4. I Created a PERFECT SNAKE A.I.https://www.youtube.com/watch?v=tjQIO1rqTBE&ab_channel=CodeBullet
+5. Introduction: Reinforcement Learning with OpenAI Gym https://towardsdatascience.com/reinforcement-learning-with-openai-d445c2c687d2
+6. FROM RESEARCH TO PRODUCTION, URL: https://pytorch.org/
+7. Was ist maschinelles Lernen?, URL: https://www.sap.com/germany/insights/what-is-machine-learning.html
+8. REINFORCEMENT LEARNING (DQN) TUTORIAL, URL: https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html
+9. Schooling Flappy Bird: A Reinforcement Learning Tutorial, URL: https://www.toptal.com/deep-learning/pytorch-reinforcement-learning-tutorial
+10. Teach AI To Play Snake - Reinforcement Learning Tutorial With PyTorch And Pygame (Part 1), URL: https://www.youtube.com/watch?v=PJl4iabBEz0&t=2s&ab_channel=PythonEngineer
+11. Was ist ein Neuronales Netz?, URL: https://www.bigdata-insider.de/was-ist-ein-neuronales-netz-a-686185/
+12. Feedforward Neural Network, URL: https://www.alexanderthamm.com/de/data-science-glossar/feedforward-neural-network/
+13. 
