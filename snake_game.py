@@ -64,7 +64,7 @@ class SnakeGameAI:
         self.score = 0
 
         # Schlangengeschwindigkeit
-        self.speed = 40
+        self.speed = 5
 
         # Food wird zufällig platziert bei Start des Spieles
         self.item = None
